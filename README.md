@@ -79,14 +79,14 @@ As seguintes bibliotecas são necessárias para executar o projeto.
 1.  **Clone o repositório:**
 
     ```bash
-    git clone <https://github.com/Cabana021/mod-menu.git>
+    git clone https://github.com/Cabana021/mod-menu.git
     cd mod-menu
     ```
 
 2.  **Instale as dependências:**
 
     ```bash
-    pip install customtkinter pillow pymem
+    pip install customtkinter pillow pymem psutil
     ```
 
 3.  **Execute a aplicação:**
