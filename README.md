@@ -4,8 +4,16 @@ Um Mod Menu com interface gráfica (GUI) desenvolvido em Python para modificar v
 
 ## 🖼️ Demonstração
 
+### 🔹 1. Aguardando o processo (jogo.exe)
+
 <img src="screenshots/waiting_screen.png" alt="Aguardando o processo do jogo" width="600"/>
+
+### 🔹 2. Reconhecimento do jogo (FlatOut2)
+
 <img src="screenshots/acess_screen.png" alt="Reconheceu o processo com sucesso" width="600"/>
+
+### 🔹 3. Alteração de dados enquanto executa o jogo
+
 <img src="screenshots/running_screen.png" alt="A ação de alterar o valor foi efetuada com êxito" width="600"/>
 
 ## Como Funciona
@@ -34,9 +42,9 @@ A interface, construída com **CustomTkinter**, serve como o painel de controle.
 ## Estrutura do Projeto
 
 ```
-mod-menu/
+mod menu/
 │
-├── modmenu/
+├── src/
 │   ├── __init__.py
 │   ├── assets/                 # Ícones
 │   │   ├── gamepad_icon.png
