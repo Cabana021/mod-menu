@@ -73,6 +73,7 @@ As seguintes bibliotecas são necessárias para executar o projeto.
 - **customtkinter**: Para a interface gráfica moderna.
 - **pillow**: Para carregar e manipular as imagens dos ícones.
 - **pymem**: Para interagir com a memória dos processos.
+- **psutil**: Para detectar e monitorar o processo do jogo atual.
 
 ## Instalação e Execução
 
