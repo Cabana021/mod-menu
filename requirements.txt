@@ -1,0 +1,4 @@
+customtkinter
+pymem
+pillow
+psutil
